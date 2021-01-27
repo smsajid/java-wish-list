@@ -20,4 +20,6 @@ This repository is created to list down the wish list of applications, framework
 3. Commit and make a pull request
 
 # The Java Wish List
-1. 
+1. Application Configuration Management - Hierarchical configuration management with scoping, templating, converters(json to yaml, etc), granular role based access control
+2. Application Language translation management
+3. 
