@@ -17,7 +17,7 @@ This repository is created to list down the wish list of applications, framework
 # Contributing to this wish list
 1. Fork the project
 2. Edit the README.md file and add your entry
-3. Commit and make a pull request
+3. Commit and create a pull request
 
 # The Java Wish List
 1. Application Configuration Management - Hierarchical configuration management with scoping, templating, converters(json to yaml, etc), granular role based access control
